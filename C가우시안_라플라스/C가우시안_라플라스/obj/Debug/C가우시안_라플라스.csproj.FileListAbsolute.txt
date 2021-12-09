@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.Form1.resources
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.Properties.Resources.resources
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\bin\Debug\C가우시안_라플라스.exe.config
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\bin\Debug\C가우시안_라플라스.exe
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\bin\Debug\C가우시안_라플라스.pdb
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.exe
+C:\Users\LG\source\repos\C가우시안_라플라스\C가우시안_라플라스\obj\Debug\C가우시안_라플라스.pdb
