@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_OpenCV_최소자승법", "C_OpenCV_최소자승법\C_OpenCV_최소자승법.csproj", "{988A917B-A3F5-453E-8345-BDEE4EB06DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988A917B-A3F5-453E-8345-BDEE4EB06DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988A917B-A3F5-453E-8345-BDEE4EB06DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988A917B-A3F5-453E-8345-BDEE4EB06DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988A917B-A3F5-453E-8345-BDEE4EB06DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0DA908-88CC-45AC-A0D5-035A21586F18}
+	EndGlobalSection
+EndGlobal
