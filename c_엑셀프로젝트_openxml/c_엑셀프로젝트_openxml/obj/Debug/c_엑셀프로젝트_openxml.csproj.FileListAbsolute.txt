@@ -1,0 +1,16 @@
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\c_엑셀프로젝트_openxml.exe.config
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\c_엑셀프로젝트_openxml.exe
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\c_엑셀프로젝트_openxml.pdb
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.Properties.Resources.resources
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.exe
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.pdb
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\System.IO.Packaging.dll
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\System.IO.Packaging.xml
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.Form1.resources
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\obj\Debug\c_엑셀프로젝트_openxml.csproj.CopyComplete
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\EPPlus.dll
+C:\Users\LG\source\repos\c_엑셀프로젝트_openxml\c_엑셀프로젝트_openxml\bin\Debug\EPPlus.xml
