@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로 장난치기2 확대,축소.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로_장난치기2_확대_축소.Form1.resources
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로_장난치기2_확대_축소.Properties.Resources.resources
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로 장난치기2 확대,축소.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로 장난치기2 확대,축소.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\bin\Debug\사진으로 장난치기2 확대,축소.exe.config
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\bin\Debug\사진으로 장난치기2 확대,축소.exe
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\bin\Debug\사진으로 장난치기2 확대,축소.pdb
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로 장난치기2 확대,축소.exe
+C:\Users\LG\source\repos\사진으로 장난치기2 확대,축소\사진으로 장난치기2 확대,축소\obj\Debug\사진으로 장난치기2 확대,축소.pdb
