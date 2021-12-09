@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\bin\Debug\C이미지_침식_팽창.exe.config
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\bin\Debug\C이미지_침식_팽창.exe
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\bin\Debug\C이미지_침식_팽창.pdb
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.Form1.resources
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.Properties.Resources.resources
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.exe
+C:\Users\LG\source\repos\C이미지_침식_팽창\C이미지_침식_팽창\obj\Debug\C이미지_침식_팽창.pdb

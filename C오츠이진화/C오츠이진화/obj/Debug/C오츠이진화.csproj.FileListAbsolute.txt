@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\bin\Debug\C오츠이진화.exe.config
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\bin\Debug\C오츠이진화.exe
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\bin\Debug\C오츠이진화.pdb
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.Form1.resources
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.Properties.Resources.resources
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.exe
+C:\Users\LG\source\repos\C오츠이진화\C오츠이진화\obj\Debug\C오츠이진화.pdb
