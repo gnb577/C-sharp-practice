@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\bin\Debug\C히스토그램_평활화.exe.config
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\bin\Debug\C히스토그램_평활화.exe
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\bin\Debug\C히스토그램_평활화.pdb
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.Form1.resources
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.Properties.Resources.resources
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.exe
+C:\Users\LG\source\repos\C히스토그램_평활화\C히스토그램_평활화\obj\Debug\C히스토그램_평활화.pdb

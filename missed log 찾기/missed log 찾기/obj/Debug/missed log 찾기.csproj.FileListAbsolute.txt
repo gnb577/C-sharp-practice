@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\bin\Debug\missed log 찾기.exe.config
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\bin\Debug\missed log 찾기.exe
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\bin\Debug\missed log 찾기.pdb
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed log 찾기.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed_log_찾기.Form1.resources
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed_log_찾기.Properties.Resources.resources
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed log 찾기.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed log 찾기.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed log 찾기.exe
+C:\Users\LG\source\repos\missed log 찾기\missed log 찾기\obj\Debug\missed log 찾기.pdb
