@@ -1,0 +1,17 @@
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.Form1.resources
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.Properties.Resources.resources
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\C_port_제어_piezo.exe.config
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\C_port_제어_piezo.exe
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\C_port_제어_piezo.pdb
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\EPPlus.dll
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\System.IO.Packaging.dll
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\EPPlus.xml
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\bin\Debug\System.IO.Packaging.xml
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.csproj.CopyComplete
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.exe
+C:\Users\LG\source\repos\C_port_제어_piezo\C_port_제어_piezo\obj\Debug\C_port_제어_piezo.pdb
