@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.Form1.resources
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.Properties.Resources.resources
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\bin\Debug\c엑셀프로젝트2_sheet2만들기.exe.config
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\bin\Debug\c엑셀프로젝트2_sheet2만들기.exe
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\bin\Debug\c엑셀프로젝트2_sheet2만들기.pdb
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.exe
+C:\Users\LG\source\repos\c엑셀프로젝트2_sheet2만들기\c엑셀프로젝트2_sheet2만들기\obj\Debug\c엑셀프로젝트2_sheet2만들기.pdb
