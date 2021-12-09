@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\bin\Debug\C이미지_확장_축소_이동2.exe.config
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\bin\Debug\C이미지_확장_축소_이동2.exe
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\bin\Debug\C이미지_확장_축소_이동2.pdb
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.Form1.resources
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.Properties.Resources.resources
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.exe
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.pdb
+C:\Users\LG\source\repos\C이미지_확장_축소_이동\C이미지_확장_축소_이동2\obj\Debug\C이미지_확장_축소_이동2.csprojAssemblyReference.cache
